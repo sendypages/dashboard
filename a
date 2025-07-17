@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dashboard A</title>
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    iframe {
+      flex: 1;
+      width: 100%;
+      border: none;
+    }
+    .back-button {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      z-index: 10;
+      background: #ffffffcc;
+      padding: 8px 12px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      font-family: sans-serif;
+      text-decoration: none;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <a class="back-button" href="https://lookerstudio.google.com/u/0/reporting/f57dae5e-89af-4dfb-b0c7-a2e9c2f3fb72/page/WA4HF"></a>
+  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSg9XtOwgHVzPK4GF0KfeJkCRRjWecyqPwGS3abgoKpcsq6zgl7X3JHFOE1uj4w3g0Omqhe7jr_P9MV/pubhtml?gid=1573897576&single=true"></iframe>
+</body>
+</html>
